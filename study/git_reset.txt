@@ -17,3 +17,7 @@ git reset --soft HEAD^
 git reset HEAD <sample file>
     sample fileのaddを取り消す
     ２回続けてaddしていたとき、１回目に戻るのでなく、最初に戻る
+    HEADは省略可
+
+git reset --hard
+    最新のcommitにステージングエリアおよび作業ファイルを揃える
