@@ -1,2 +1,1 @@
-Sample!
-Added!
+This is a sample.
