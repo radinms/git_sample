@@ -12,6 +12,7 @@
 （例）
 git reset --soft HEAD^
     commitを直前のcommitに戻す
+    間違えてcommitしたときなどに使う
 
 git reset HEAD <sample file>
     sample fileのaddを取り消す
