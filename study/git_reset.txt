@@ -1,0 +1,18 @@
+git reset [--soft|なし|--hard] <commit number>
+
+--soft:
+    commitのみをリセットする
+
+--オプションなし
+    commit, ステージエリアをリセットする
+
+--hard:
+    すべてリセットする（実際の作業ファイルも元に戻る）
+
+（例）
+git reset --soft HEAD^
+    commitを直前のcommitに戻す
+
+git reset HEAD <sample file>
+    sample fileのaddを取り消す
+    ２回続けてaddしていたとき、１回目に戻るのでなく、最初に戻る
