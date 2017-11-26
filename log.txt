@@ -1,0 +1,144 @@
+*   [33mcommit e9ab8ad94ec1e26b7ad31390e455d6269f0c151a[m
+[31m|[m[32m\[m  Merge: dfe47fc 4218428
+[31m|[m [32m|[m Author: radinms <radinms55@gmail.com>
+[31m|[m [32m|[m Date:   Sun Nov 26 13:50:47 2017 +0900
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branch 'calc_branch'
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 4218428140d16b0ad2901262b1824cecc20c2bb3[m
+[31m|[m [32m|[m Author: radinms <radinms55@gmail.com>
+[31m|[m [32m|[m Date:   Sun Nov 26 13:35:40 2017 +0900
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     3* calculate
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit dfe47fcb19e4325f3209d46345167119776fe96b[m
+[32m|[m[32m/[m  Author: radinms <radinms55@gmail.com>
+[32m|[m   Date:   Sun Nov 26 13:36:24 2017 +0900
+[32m|[m   
+[32m|[m       5* calculate
+[32m|[m 
+* [33mcommit f19f2132340206f8162e7bfe5498171e2ead6924[m
+[32m|[m Author: radinms <radinms55@gmail.com>
+[32m|[m Date:   Sun Nov 26 13:31:36 2017 +0900
+[32m|[m 
+[32m|[m     first calculate
+[32m|[m   
+*   [33mcommit a202ffb283f6542e4d4f30ed79739d96b5efd93c[m
+[33m|[m[34m\[m  Merge: b887800 d82df3d
+[33m|[m [34m|[m Author: radinms <radinms55@gmail.com>
+[33m|[m [34m|[m Date:   Sat Nov 25 14:01:06 2017 +0900
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     Merge pull request #1 from radinms/testbranch
+[33m|[m [34m|[m     
+[33m|[m [34m|[m     created test branch and testbranch.txt
+[33m|[m [34m|[m 
+[33m|[m * [33mcommit d82df3d4c5a56942b30ad4d01658974190cc4f54[m
+[33m|[m [34m|[m Author: radinms <radinms55@gmail.com>
+[33m|[m [34m|[m Date:   Sat Nov 25 13:19:16 2017 +0900
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     created test branch and testbranch.txt
+[33m|[m [34m|[m 
+* [34m|[m [33mcommit b8878009892fb8a7c6ee29018977d3197d0c9b4f[m
+[34m|[m[34m/[m  Author: radinms <radinms55@gmail.com>
+[34m|[m   Date:   Sat Nov 25 13:22:10 2017 +0900
+[34m|[m   
+[34m|[m       created master.txt
+[34m|[m   
+*   [33mcommit 448a62fb94255465905ca840c29b80f03696cb42[m
+[35m|[m[36m\[m  Merge: e3ab90f e7f6035
+[35m|[m [36m|[m Author: radinms <radinms55@gmail.com>
+[35m|[m [36m|[m Date:   Sat Nov 25 13:05:49 2017 +0900
+[35m|[m [36m|[m 
+[35m|[m [36m|[m     Merge branch 'master' of https://github.com/radinms/git_sample
+[35m|[m [36m|[m 
+[35m|[m * [33mcommit e7f6035e56b64ca39cd32afb0c47de7e37053dd3[m
+[35m|[m [36m|[m Author: radinms <radinms55@gmail.com>
+[35m|[m [36m|[m Date:   Sat Nov 25 13:04:35 2017 +0900
+[35m|[m [36m|[m 
+[35m|[m [36m|[m     Delete sample - コピー.txt
+[35m|[m [36m|[m 
+[35m|[m * [33mcommit 287dd74d8d93dbcc860a04635a17512b62722e4b[m
+[35m|[m [36m|[m Author: radinms <radinms55@gmail.com>
+[35m|[m [36m|[m Date:   Fri Nov 24 21:58:35 2017 +0900
+[35m|[m [36m|[m 
+[35m|[m [36m|[m     shuusei
+[35m|[m [36m|[m 
+* [36m|[m [33mcommit e3ab90f06b0bb3b181677eab4af32843d9911f8c[m
+[36m|[m [36m|[m Author: radinms <radinms55@gmail.com>
+[36m|[m [36m|[m Date:   Sat Nov 25 13:03:09 2017 +0900
+[36m|[m [36m|[m 
+[36m|[m [36m|[m     delete unnecessary sample
+[36m|[m [36m|[m 
+* [36m|[m [33mcommit 514c97233c5adf05e192d9bb489434b251ef33ec[m
+[36m|[m[36m/[m  Author: radinms <radinms55@gmail.com>
+[36m|[m   Date:   Fri Nov 24 21:58:35 2017 +0900
+[36m|[m   
+[36m|[m       shuusei
+[36m|[m 
+* [33mcommit 2b123cadb9e3df9613b776c0ed2f8ee123b9996c[m
+[36m|[m Author: radinms <radinms55@gmail.com>
+[36m|[m Date:   Fri Nov 24 21:34:02 2017 +0900
+[36m|[m 
+[36m|[m     add txt -> modify txt -> commit(not add again)
+[36m|[m 
+* [33mcommit 4a63468ac290b00ff554aa00a117215444a61388[m
+[36m|[m Author: radinms <radinms55@gmail.com>
+[36m|[m Date:   Fri Nov 24 21:08:29 2017 +0900
+[36m|[m 
+[36m|[m     use of git reset
+[36m|[m   
+*   [33mcommit 48f06287d76576496db8f63fd64d54846d328add[m
+[1;31m|[m[1;32m\[m  Merge: 1404cf2 ad3f414
+[1;31m|[m [1;32m|[m Author: radinms <radinms55@gmail.com>
+[1;31m|[m [1;32m|[m Date:   Fri Nov 24 21:07:34 2017 +0900
+[1;31m|[m [1;32m|[m 
+[1;31m|[m [1;32m|[m     Merge branch 'master' of https://github.com/radinms/git_sample
+[1;31m|[m [1;32m|[m 
+[1;31m|[m * [33mcommit ad3f4143458f053bcf235c390d512ae8640ffb62[m
+[1;31m|[m [1;32m|[m Author: radinms <radinms55@gmail.com>
+[1;31m|[m [1;32m|[m Date:   Fri Nov 24 21:04:39 2017 +0900
+[1;31m|[m [1;32m|[m 
+[1;31m|[m [1;32m|[m     Delete git_reset.txt
+[1;31m|[m [1;32m|[m 
+[1;31m|[m * [33mcommit 4e4dba820aad19850a33a0e5d1e9fd3e059f3725[m
+[1;31m|[m [1;32m|[m Author: radinms <radinms55@gmail.com>
+[1;31m|[m [1;32m|[m Date:   Fri Nov 24 20:55:03 2017 +0900
+[1;31m|[m [1;32m|[m 
+[1;31m|[m [1;32m|[m     use of git reset
+[1;31m|[m [1;32m|[m 
+* [1;32m|[m [33mcommit 1404cf2597e4975f731123ba24d2a01b8cfdf50c[m
+[1;32m|[m[1;32m/[m  Author: radinms <radinms55@gmail.com>
+[1;32m|[m   Date:   Fri Nov 24 21:02:05 2017 +0900
+[1;32m|[m   
+[1;32m|[m       use of git reset
+[1;32m|[m 
+* [33mcommit 332a8525d94e903b392fe15c52a082e66666f171[m
+[1;32m|[m Author: radinms <radinms55@gmail.com>
+[1;32m|[m Date:   Fri Nov 24 20:04:39 2017 +0900
+[1;32m|[m 
+[1;32m|[m     the commit for study
+[1;32m|[m     1st
+[1;32m|[m 
+* [33mcommit 18674914e6b3b25cf6df5eb845794978d33f0358[m
+[1;32m|[m Author: radinms <radinms55@gmail.com>
+[1;32m|[m Date:   Fri Nov 24 17:48:08 2017 +0900
+[1;32m|[m 
+[1;32m|[m     this is a sample
+[1;32m|[m 
+* [33mcommit 9e3b10e7a53e1b8995022fa7ca34e376bd68ca8e[m
+[1;32m|[m Author: radinms <radinms55@gmail.com>
+[1;32m|[m Date:   Fri Nov 24 12:09:11 2017 +0900
+[1;32m|[m 
+[1;32m|[m     てすと
+[1;32m|[m 
+* [33mcommit 994fd7fe4506f9e03356eb585dab4b8fcf7d6b86[m
+[1;32m|[m Author: radinms <radinms55@gmail.com>
+[1;32m|[m Date:   Fri Nov 24 11:50:58 2017 +0900
+[1;32m|[m 
+[1;32m|[m     add
+[1;32m|[m 
+* [33mcommit a0d70d1eece139b2d4999a586a8d5ffd901cce77[m
+  Author: radinms <radinms55@gmail.com>
+  Date:   Fri Nov 24 11:32:38 2017 +0900
+  
+      sample!
