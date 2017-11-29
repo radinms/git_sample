@@ -1,0 +1,25 @@
+C:\Users\<ユーザ名>\Desktop\git_sample>git cat-file -t 2095
+tree
+
+C:\Users\<ユーザ名>\Desktop\git_sample>git cat-file -p 2095
+100644 blob 5ef07751528a23cd07bf3d780562c8cae480fb5c    calculate.txt
+040000 tree 38be4088b51f933399eef042778341526897fe06    folder1
+100644 blob fca12450580a6ee9ef485611d0121a046b5077c8    master.txt
+100644 blob 324405b9c5da3d889dec0ad0a2ba7a3e902768e0    sample.txt
+040000 tree ece323da6fab300cb40c014c95cbc5f2426eadba    study
+100644 blob 88062b2a51f02a75f186ad676ac1bf63d6050186    testbranch.txt
+
+C:\Users\<ユーザ名>\Desktop\git_sample>git cat-file -p 38be
+040000 tree d250f8a1c6f1d8795d0b47244476936346a88ee1    folder2
+100644 blob b6fc4c620b67d95f953a5c1c1230aaab5db5a1b0    hello.txt
+
+C:\Users\<ユーザ名>\Desktop\git_sample>git cat-file -p d250
+100644 blob d9605cba788be605efc416e20dbe5127a82d3001    HELLO.txt
+
+C:\Users\<ユーザ名>\Desktop\git_sample>git cat-file -p a4c0
+tree 20951de90377bfd5befa2148d3a211d8073d32d5
+parent 61babe75959973d9e13b0e3315cd67cc94b0bcb2
+author radinms <radinms55@gmail.com> 1511963389 +0900
+committer radinms <radinms55@gmail.com> 1511963389 +0900
+
+folder
