@@ -23,3 +23,11 @@ author radinms <radinms55@gmail.com> 1511963389 +0900
 committer radinms <radinms55@gmail.com> 1511963389 +0900
 
 folder
+
+C:\Users\<ƒ†[ƒU–¼>\Desktop\git_sample>git cat-file -p 730f
+tree 0016bf7294dc4e1e5369819577f9e50b6cf5ddff
+parent a4c043b132ecf13481d5f170cb1baeca5620cec0
+author radinms <radinms55@gmail.com> 1511963778 +0900
+committer radinms <radinms55@gmail.com> 1511963778 +0900
+
+tree
